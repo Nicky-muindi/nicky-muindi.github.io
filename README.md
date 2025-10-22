@@ -36,7 +36,6 @@ Once deployed via GitHub Pages, the following URLs will be publicly available:
 - **Privacy Policy:** [https://nicky-muindi.github.io/privacy-policy.html](https://nicky-muindi.github.io/privacy-policy.html)  
 - **app-ads.txt:** [https://nicky-muindi.github.io/app-ads.txt](https://nicky-muindi.github.io/app-ads.txt)
 
-You can use these URLs directly in your Play Store and AdMob configurations.
 
 ---
 
