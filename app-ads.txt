@@ -1,0 +1,5 @@
+# app-ads.txt for AI ImageVid Generator
+# Temporary placeholder until verified AdMob account is ready.
+# Replace pub-0000000000000000 with your actual AdMob publisher ID.
+
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
