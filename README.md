@@ -1,48 +1,53 @@
-# 🌌 AI ImageVid Generator — Website
+# 🌌 AI ImageVid Generator — Official Website
 
-This repository hosts the **official website** for **AI ImageVid Generator**, an AI-powered app that transforms text prompts into stunning images and short videos.  
+This repository hosts the **official GitHub Pages website** for **AI ImageVid Generator**, a privacy-first AI app that transforms text prompts into stunning images and short videos using secure AI APIs.
 
-The site is used primarily for public hosting of the app’s **privacy policy** and **app-ads.txt** file, both required for Play Store compliance.
+The website provides publicly accessible compliance files required for **Google Play** and **AdMob** verification — including the app’s **Privacy Policy** and **app-ads.txt** declaration.
 
 ---
 
-## 📂 Files in this Repository
+## 📂 Repository Contents
 
-| File | Purpose |
-|------|----------|
-| `privacy-policy.html` | Public privacy policy for AI ImageVid Generator |
-| `app-ads.txt` | Authorized sellers declaration for AdMob / Play Store |
-| `LICENSE` | MIT License for this repository |
-| `README.md` | Information about this GitHub Pages site |
+| File | Description |
+|------|--------------|
+| `index.html` | Main website landing page |
+| `privacy-policy.html` | Public Privacy Policy for AI ImageVid Generator |
+| `app-ads.txt` | Authorized ad-sellers declaration (AdMob / Play Store requirement) |
+| `LICENSE.txt` | Proprietary license protecting this project |
+| `README.md` | Repository and deployment information |
+| `hillary-kipyegon/` | Subpage hosted for authorized client Hillary Kipyegon |
 
 ---
 
 ## 🧠 About AI ImageVid Generator
 
-**AI ImageVid Generator** allows users to:
-- Generate images and short AI-powered videos from plain-language prompts.  
-- Use secure third-party APIs for AI generation (no personal data stored).  
-- Keep full control over generated media with **no tracking or analytics**.
+**AI ImageVid Generator** empowers users to create AI-generated artwork and video content from simple text prompts.  
 
-This app values **privacy-first design** — no personal data collection, no tracking, and transparent permissions.
+Key design principles:
+- 🔒 **Privacy First** — No personal data collected or stored  
+- 🤖 **AI-Powered Creativity** — Uses secure third-party APIs for image and video generation  
+- 📱 **On-Device Control** — Generated media is stored locally unless shared by the user  
+- 🧩 **Transparency** — No analytics, no tracking, no hidden data collection
 
 ---
 
-## 🔗 Live URLs
+## 🌐 Live URLs (GitHub Pages)
 
-Once deployed via GitHub Pages, the following URLs will be publicly available:
+Once deployed, the following URLs will be publicly available:
 
-- **Website root:** [https://nicky-muindi.github.io](https://nicky-muindi.github.io)  
+- **Main site:** [https://nicky-muindi.github.io](https://nicky-muindi.github.io)  
 - **Privacy Policy:** [https://nicky-muindi.github.io/privacy-policy.html](https://nicky-muindi.github.io/privacy-policy.html)  
-- **app-ads.txt:** [https://nicky-muindi.github.io/app-ads.txt](https://nicky-muindi.github.io/app-ads.txt)
+- **app-ads.txt:** [https://nicky-muindi.github.io/app-ads.txt](https://nicky-muindi.github.io/app-ads.txt)  
+- **Client subpage (Hillary Kipyegon):** [https://nicky-muindi.github.io/hillary-kipyegon/](https://nicky-muindi.github.io/hillary-kipyegon/)
 
+These links are used for Play Store listings and ad-network verification.
 
 ---
 
-## 🚀 Deployment (GitHub Pages)
+## 🚀 Deployment Instructions
 
 This site is hosted via **GitHub Pages** directly from the `main` branch (root directory).  
-To update or publish new files, run the following commands in your local repository:
+To update or publish new files:
 
 ```bash
 git add .
