@@ -1,36 +1,57 @@
-# Hillary Kipyegon – AI ImageVid Generator
+# 🎨 AI ImageVid Generator — Hillary Kipyegon Subpage
 
-This folder hosts the **privacy policy** and **app-ads.txt** for the app **AI ImageVid Generator**, owned by **Hillary Kipyegon**.
+This directory hosts the **official compliance documents** for the app  
+**AI ImageVid Generator**, published under the account of **Hillary Kipyegon**.
 
-Hosted by **Nicholas Muindi Mwanza** for compliance and Play Store visibility.
+These files are publicly accessible as required by **Google Play** and **AdMob**,  
+and are hosted with permission from the app’s developer, **Nicholas M Mwanza**.
 
 ---
 
-## 📄 Files
+## 📂 Files in This Folder
 
-| File | Purpose | Live URL |
-|------|----------|----------|
-| `privacy-policy.html` | Public privacy policy for the app | [View](https://nicky-muindi.github.io/hillary-kipyegon/privacy-policy.html) |
-| `app-ads.txt` | Authorized sellers declaration (AdMob) | [View](https://nicky-muindi.github.io/hillary-kipyegon/app-ads.txt) |
+| File | Description |
+|------|--------------|
+| `index.html` | Landing page for Hillary Kipyegon’s hosted compliance files |
+| `privacy-policy.html` | Public Privacy Policy for AI ImageVid Generator |
+| `app-ads.txt` | Authorized ad-sellers declaration for AdMob / Play Store |
 
 ---
 
 ## 🧠 About the App
 
-**AI ImageVid Generator** is an AI-powered creative tool that converts text prompts into stunning images and short videos.  
-It uses secure AI APIs for content generation and collects **no personal data** from users.
+**AI ImageVid Generator** is an AI-powered creativity tool that transforms  
+text prompts into visually stunning images and short videos.  
+
+- 🧠 Built using secure AI APIs  
+- 🔒 No personal data collected  
+- ⚙️ Processing occurs locally or through secure API requests  
+- 💬 Transparent permissions and no analytics tracking  
+
+This app follows a **privacy-first design philosophy**.
 
 ---
 
-## 🧑‍💻 Contact
+## 🌐 Live URLs
 
-For inquiries, contact:
+Once deployed via GitHub Pages, the following links will be publicly available:
 
-- **Developer:** Nicholas Muindi Mwanza 
-  📩 [nicholasmuindi25@gmail.com](mailto:nicholasmuindi25@gmail.com)
-
-- **App Owner:** Hillary Kipyegon  
+- **Subpage Root:** [https://nicky-muindi.github.io/hillary-kipyegon/](https://nicky-muindi.github.io/hillary-kipyegon/)  
+- **Privacy Policy:** [https://nicky-muindi.github.io/hillary-kipyegon/privacy-policy.html](https://nicky-muindi.github.io/hillary-kipyegon/privacy-policy.html)  
+- **app-ads.txt:** [https://nicky-muindi.github.io/hillary-kipyegon/app-ads.txt](https://nicky-muindi.github.io/hillary-kipyegon/app-ads.txt)
 
 ---
 
-⭐ *Hosted responsibly via GitHub Pages.*
+## ⚖️ License & Attribution
+
+**© 2025 Nicholas M Mwanza — All Rights Reserved**  
+This subpage and its contents are hosted under a **Proprietary License**.  
+
+- The app’s code and assets remain the property of **Nicholas M Mwanza**.  
+- **Hillary Kipyegon** is granted rights to host these compliance files  
+  for app publishing and ad verification purposes.
+
+## 📩 Contact
+
+For developer or licensing inquiries:  
+**Nicholas M Mwanza** — [nicholasmuindi25@gmail.com](mailto:nicholasmuindi25@gmail.com)
