@@ -1,7 +1,7 @@
-# 🎨 AI ImageVid Generator — Hillary Kipyegon Subpage
+# 🎨 AI GPT Video & Image Generator — Hillary Kipyegon Subpage
 
 This directory hosts the **official compliance documents** for the app  
-**AI ImageVid Generator**, published under the account of **Hillary Kipyegon**.
+**AI GPT Video & Image Generatorr**, published under the account of **Hillary Kipyegon**.
 
 These files are publicly accessible as required by **Google Play** and **AdMob**,  
 and are hosted with permission from the app’s developer, **Nicholas M Mwanza**.
@@ -20,7 +20,7 @@ and are hosted with permission from the app’s developer, **Nicholas M Mwanza**
 
 ## 🧠 About the App
 
-**AI ImageVid Generator** is an AI-powered creativity tool that transforms  
+**AI GPT Video & Image Generator** is an AI-powered creativity tool that transforms  
 text prompts into visually stunning images and short videos.  
 
 - 🧠 Built using secure AI APIs  
