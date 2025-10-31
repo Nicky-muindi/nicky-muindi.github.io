@@ -1,5 +1,7 @@
-# app-ads.txt for AI ImageVid Generator
-# Temporary placeholder until verified AdMob account is ready.
-# Replace pub-0000000000000000 with your actual AdMob publisher ID.
+# Ads.txt for AI GPT Video & Image Generator
+# Developer: Nicholas M Mwanza
+# Contact: nicholasmuindi25@gmail.com
+# Last Updated: 2025
 
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# Google AdMob - Direct Relationship
+google.com, pub-7830710760641005, DIRECT, f08c47fec0942fa0
