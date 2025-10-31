@@ -11,7 +11,7 @@ The website provides publicly accessible compliance files required for **Google 
 | File | Description |
 |------|--------------|
 | `index.html` | Main website landing page |
-| `privacy-policy.html` | Public Privacy Policy for AI ImageVid Generator |
+| `privacy-policy.html` | Public Privacy Policy for AI GPT Video & Image Generator |
 | `ads.txt` | Authorized ad-sellers declaration (AdMob / Play Store requirement) |
 | `LICENSE.txt` | Proprietary license protecting this project |
 | `README.md` | Repository and deployment information |
