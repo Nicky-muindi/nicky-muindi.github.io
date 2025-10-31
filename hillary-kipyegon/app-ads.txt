@@ -1,1 +1,7 @@
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# Ads.txt for AI GPT Video & Image Generator
+# Developer: Nicholas M Mwanza
+# Contact: nicholasmuindi25@gmail.com
+# Last Updated: 2024
+
+# Google AdMob - Direct Relationship
+google.com, pub-7830710760641005, DIRECT, f08c47fec0942fa0
