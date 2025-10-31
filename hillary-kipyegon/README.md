@@ -14,7 +14,7 @@ and are hosted with permission from the app’s developer, **Nicholas M Mwanza**
 |------|--------------|
 | `index.html` | Landing page for Hillary Kipyegon’s hosted compliance files |
 | `privacy-policy.html` | Public Privacy Policy for AI ImageVid Generator |
-| `app-ads.txt` | Authorized ad-sellers declaration for AdMob / Play Store |
+| `ads.txt` | Authorized ad-sellers declaration for AdMob / Play Store |
 
 ---
 
@@ -38,7 +38,7 @@ Once deployed via GitHub Pages, the following links will be publicly available:
 
 - **Subpage Root:** [https://nicky-muindi.github.io/hillary-kipyegon/](https://nicky-muindi.github.io/hillary-kipyegon/)  
 - **Privacy Policy:** [https://nicky-muindi.github.io/hillary-kipyegon/privacy-policy.html](https://nicky-muindi.github.io/hillary-kipyegon/privacy-policy.html)  
-- **app-ads.txt:** [https://nicky-muindi.github.io/hillary-kipyegon/app-ads.txt](https://nicky-muindi.github.io/hillary-kipyegon/app-ads.txt)
+- **ads.txt:** [https://nicky-muindi.github.io/hillary-kipyegon/app-ads.txt](https://nicky-muindi.github.io/hillary-kipyegon/ads.txt)
 
 ---
 
