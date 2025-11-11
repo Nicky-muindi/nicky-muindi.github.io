@@ -1,53 +1,61 @@
-# 🌌AI GPT Video & Image Generator — Official Website
+# 🌌 AI GPT Video & Image Generator — Official Website
 
-This repository hosts the **official GitHub Pages website** for **AI GPT Video & Image Generator**, a privacy-first AI app that transforms text prompts into stunning images and short videos using secure AI APIs.
+[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-00bcd4?logo=githubpages)](https://nicky-muindi.github.io)
+[![Privacy Policy](https://img.shields.io/badge/View-Privacy%20Policy-9c27b0)](https://nicky-muindi.github.io/privacy-policy.html)
+[![ads.txt](https://img.shields.io/badge/View-ads.txt-2196f3)](https://nicky-muindi.github.io/app-ads.txt)
+[![Developer](https://img.shields.io/badge/Developer-Nicholas%20M%20Mwanza-00bfa5)](mailto:nicholasmuindi25@gmail.com)
 
-The website provides publicly accessible compliance files required for **Google Play** and **AdMob** verification — including the app’s **Privacy Policy** and **ads.txt** declaration.
+> **Official GitHub Pages site** for Nicholas M Mwanza’s AI apps — including  
+> 🧠 **AI GPT Video & Image Generator** and 🎬 **AI GPT Video Generator**.  
+> Built for transparency, privacy, and creative AI expression.
 
 ---
 
-## 📂 Repository Contents
+## 📎 Quick Links
+| Purpose | URL |
+|----------|-----|
+| 🌐 **Main site** | [https://nicky-muindi.github.io](https://nicky-muindi.github.io) |
+| 🧾 **Privacy Policy** | [https://nicky-muindi.github.io/privacy-policy.html](https://nicky-muindi.github.io/privacy-policy.html) |
+| 📜 **ads.txt** | [https://nicky-muindi.github.io/app-ads.txt](https://nicky-muindi.github.io/app-ads.txt) |
+| 👤 **Client (Hillary Kipyegon)** | [https://nicky-muindi.github.io/hillary-kipyegon/](https://nicky-muindi.github.io/hillary-kipyegon/) |
 
-| File | Description |
-|------|--------------|
-| `index.html` | Main website landing page |
-| `privacy-policy.html` | Public Privacy Policy for AI GPT Video & Image Generator |
-| `ads.txt` | Authorized ad-sellers declaration (AdMob / Play Store requirement) |
-| `LICENSE.txt` | Proprietary license protecting this project |
-| `README.md` | Repository and deployment information |
+---
+
+## 📂 Repository Structure
+
+| File / Folder | Description |
+|----------------|--------------|
+| `index.html` | Main landing page listing all hosted apps |
+| `privacy-policy.html` | Shared privacy policy for all hosted apps |
+| `app-ads.txt` | Authorized ad-sellers file for AdMob & Google Play |
 | `hillary-kipyegon/` | Subpage hosted for authorized client Hillary Kipyegon |
+| `LICENSE.txt` | Proprietary license |
+| `README.md` | This file — repository overview |
 
 ---
 
-## 🧠 About AI GPT Video & Image Generator
+## 🧠 About the Apps
 
-**AI GPT Video & Image Generator** empowers users to create AI-generated artwork and video content from simple text prompts.  
+### **AI GPT Video & Image Generator**
+Create AI-generated **images and short videos** from text prompts using secure APIs.  
 
-Key design principles:
+### **AI GPT Video Generator**
+A lightweight companion app designed for **quick AI video creation**, using the same privacy and ad transparency standards.
+
+---
+
+### Key Principles
 - 🔒 **Privacy First** — No personal data collected or stored  
-- 🤖 **AI-Powered Creativity** — Uses secure third-party APIs for image and video generation  
-- 📱 **On-Device Control** — Generated media is stored locally unless shared by the user  
-- 🧩 **Transparency** — No analytics, no tracking, no hidden data collection
+- 🤖 **AI-Powered Creativity** — Secure APIs for media generation  
+- 📱 **User Control** — Everything saved locally unless shared  
+- 🧩 **Transparency** — No analytics, tracking, or hidden scripts  
 
 ---
 
-## 🌐 Live URLs (GitHub Pages)
+## 🚀 Deployment
 
-Once deployed, the following URLs will be publicly available:
-
-- **Main site:** [https://nicky-muindi.github.io](https://nicky-muindi.github.io)  
-- **Privacy Policy:** [https://nicky-muindi.github.io/privacy-policy.html](https://nicky-muindi.github.io/privacy-policy.html)  
-- **ads.txt:** [https://nicky-muindi.github.io/app-ads.txt](https://nicky-muindi.github.io/ads.txt)  
-- **Client subpage (Hillary Kipyegon):** [https://nicky-muindi.github.io/hillary-kipyegon/](https://nicky-muindi.github.io/hillary-kipyegon/)
-
-These links are used for Play Store listings and ad-network verification.
-
----
-
-## 🚀 Deployment Instructions
-
-This site is hosted via **GitHub Pages** directly from the `main` branch (root directory).  
-To update or publish new files:
+Hosted via **GitHub Pages** (root of `main` branch).  
+To update or deploy new files:
 
 ```bash
 git add .
