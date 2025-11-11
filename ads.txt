@@ -1,7 +1,26 @@
-# Ads.txt for AI GPT Video & Image Generator
-# App Owner: Hillary Kipyegon
-# Developed by: Nicholas M Mwanza
+# ============================================================
+# Unified Ads.txt for Nicholas M Mwanza Apps
+# ============================================================
+# Developer / Publisher: Nicholas M Mwanza
 # Contact: nicholasmuindi25@gmail.com
-# Last Updated: 2025
+# Domain: https://nicky-muindi.github.io
+# Purpose: Declare all authorized digital advertising sellers
+# Last Updated: 2025-11-11
+# ============================================================
 
-google.com, pub-7830710760641005, DIRECT, f08c47fec0942fa0
+# --- AI GPT Video & Image Generator ---
+google.com, pub-7293965243887704, DIRECT, f08c47fec0942fa0
+
+# --- AI GPT Video Generator ---
+google.com, pub-7293965243887704, DIRECT, f08c47fec0942fa0
+
+# --- Hosted Client: Hillary Kipyegon (AI GPT Video & Image Generator) ---
+google.com, pub-7293965243887704, DIRECT, f08c47fec0942fa0
+
+# ============================================================
+# Notes:
+# - All above entries belong to verified apps developed or hosted
+#   by Nicholas M Mwanza under the AdMob publisher ID:
+#   ca-app-pub-7293965243887704~2712677872
+# - This file ensures transparency in programmatic advertising.
+# ============================================================
