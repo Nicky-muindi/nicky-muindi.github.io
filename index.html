@@ -6,52 +6,133 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Nicholas M Mwanza • AI Developer & App Publisher</title>
   <style>
+    /* ====== Base ====== */
     body {
       font-family: "Segoe UI", Roboto, sans-serif;
-      background-color: #0f1115;
+      background: radial-gradient(circle at top, #0f1115, #090a0c);
       color: #e5e5e5;
       margin: 0;
       padding: 0;
       text-align: center;
+      line-height: 1.7;
     }
-    header {
-      padding: 60px 20px 30px;
+
+    h1, h2, h3 {
+      margin: 0;
+      font-weight: 600;
     }
-    h1 {
-      font-size: 2.2rem;
-      margin-bottom: 10px;
-      color: #00bcd4;
-    }
-    h2 {
-      color: #b0bec5;
-      margin-top: 40px;
-    }
+
     a {
       color: #00bcd4;
       text-decoration: none;
+      transition: color 0.3s ease;
     }
-    a:hover {
+
+    a: hover {
+      color: #4dd0e1;
       text-decoration: underline;
     }
-    section {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 0 20px 60px;
-      line-height: 1.6;
+
+    /* ====== Header ====== */
+    header {
+      padding: 70px 20px 40px;
+      background: linear-gradient(to bottom, #14161a, #0f1115);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
     }
+
+    header h1 {
+      font-size: 2.6rem;
+      color: #00bcd4;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      color: #b0bec5;
+    }
+
+    /* ====== Section ====== */
+    section {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px 80px;
+    }
+
+    h2 {
+      color: #81d4fa;
+      font-size: 1.6rem;
+      margin-bottom: 25px;
+      border-bottom: 2px solid #00bcd4;
+      display: inline-block;
+      padding-bottom: 5px;
+    }
+
+    /* ====== App Cards ====== */
     .app-card {
       background: #1b1e24;
-      margin: 20px auto;
-      padding: 20px;
-      border-radius: 8px;
+      margin: 25px auto;
+      padding: 25px;
+      border-radius: 12px;
       text-align: left;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
+
+    .app-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 20px rgba(0, 188, 212, 0.3);
+    }
+
+    .app-card h3 {
+      color: #4dd0e1;
+      font-size: 1.3rem;
+      margin-bottom: 10px;
+    }
+
+    .app-card p {
+      color: #cfd8dc;
+      margin-bottom: 15px;
+    }
+
+    .app-card ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .app-card li {
+      margin: 6px 0;
+      font-size: 0.95rem;
+    }
+
+    /* ====== Footer ====== */
     footer {
       background-color: #14161a;
-      padding: 20px;
+      padding: 30px 20px;
       font-size: 0.9rem;
       color: #9e9e9e;
+      border-top: 1px solid #222;
+    }
+
+    footer a {
+      color: #81d4fa;
+    }
+
+    footer a: hover {
+      color: #00bcd4;
+    }
+
+    /* ====== Responsive ====== */
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2rem;
+      }
+      section {
+        padding: 30px 15px;
+      }
+      .app-card {
+        padding: 20px;
+      }
     }
   </style>
 </head>
@@ -67,7 +148,7 @@
     <div class="app-card">
       <h3>AI GPT Video & Image Generator</h3>
       <p>
-        An AI-powered creative tool that transforms text prompts into beautiful images and short videos.  
+        An AI-powered creative tool that transforms text prompts into beautiful images and short videos.
         Designed for privacy — no personal data collected.
       </p>
       <ul>
@@ -76,12 +157,11 @@
       </ul>
     </div>
 
-    <!-- ✅ New App -->
     <div class="app-card">
       <h3>AI GPT Video Generator</h3>
       <p>
-        A simplified AI video creator app built for fast generation of short clips from text prompts.  
-        Follows the same privacy standards and ad transparency policy.
+        A simplified AI video creator app built for fast generation of short clips from text prompts.
+        Follows the same privacy and ad transparency standards.
       </p>
       <ul>
         <li>🧾 <a href="./privacy-policy.html">Privacy Policy</a></li>
@@ -93,25 +173,22 @@
 
     <div class="app-card">
       <h3>Hillary Kipyegon — AI GPT Video & Image Generator</h3>
-      <p>Hosted on behalf of Hillary Kipyegon.</p>
+      <p>Hosted on behalf of Hillary Kipyegon for app compliance and transparency.</p>
       <ul>
         <li>🧾 <a href="./hillary-kipyegon/privacy-policy.html">Privacy Policy</a></li>
         <li>📜 <a href="./hillary-kipyegon/app-ads.txt">ads.txt</a></li>
       </ul>
     </div>
 
-    <!-- ✅ Hosted Google Site -->
     <div class="app-card">
       <h3>AI GPT Generator — Google Site</h3>
       <p>
         Redirects to the Google-hosted version of AI GPT Generator.
       </p>
       <ul>
-        <li>🌐 
-          <a href="https://sites.google.com/view/aigptgenerator/home" target="_blank">
-            Visit AI GPT Generator (Google Site)
-          </a>
-        </li>
+        <li>🌐 <a href="https://sites.google.com/view/aigptgenerator/home" target="_blank">
+          Visit AI GPT Generator (Google Site)
+        </a></li>
       </ul>
     </div>
   </section>
