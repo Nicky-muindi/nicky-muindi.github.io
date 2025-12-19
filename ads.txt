@@ -1,12 +1,15 @@
 # ============================================================
-# Unified Ads.txt for Nicholas M Mwanza Apps
+# Unified ads.txt for Nicholas M Mwanza Apps
 # ============================================================
 # Developer / Publisher: Nicholas M Mwanza
 # Contact: nicholasmuindi25@gmail.com
 # Domain: https://nicky-muindi.github.io
-# Purpose: Declare all authorized digital advertising sellers
-# Last Updated: 2025-11-11
+# Purpose: Declare authorized digital advertising sellers
+# Last Updated: 2025-12-19
 # ============================================================
+
+# --- Live Football TV ---
+google.com, pub-7293965243887704, DIRECT, f08c47fec0942fa0
 
 # --- AI GPT Video & Image Generator ---
 google.com, pub-7293965243887704, DIRECT, f08c47fec0942fa0
@@ -19,8 +22,11 @@ google.com, pub-7293965243887704, DIRECT, f08c47fec0942fa0
 
 # ============================================================
 # Notes:
-# - All above entries belong to verified apps developed or hosted
-#   by Nicholas M Mwanza under the AdMob publisher ID:
-#   ca-app-pub-7293965243887704~2712677872
-# - This file ensures transparency in programmatic advertising.
+# - All entries belong to the AdMob publisher account:
+#   pub-7293965243887704
+# - This covers all associated App IDs and Ad Units, including:
+#   • App ID: ca-app-pub-7293965243887704~4733462592
+#   • Interstitial Ad Unit: ca-app-pub-7293965243887704/5333788893
+#   • Native Ad Unit: ca-app-pub-7293965243887704/1415381727
+# - ads.txt applies to the entire domain and all subpaths.
 # ============================================================
