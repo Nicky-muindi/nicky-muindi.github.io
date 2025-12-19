@@ -1,12 +1,15 @@
-# 🌌 AI GPT Video & Image Generator — Official Website
+Here’s your updated README with **Live Football TV** added as a new app and links:
+
+````markdown
+# 🌌 AI GPT Video & Image Generator & Live Football TV — Official Website
 
 [![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-00bcd4?logo=githubpages)](https://nicky-muindi.github.io)
 [![Privacy Policy](https://img.shields.io/badge/View-Privacy%20Policy-9c27b0)](https://nicky-muindi.github.io/privacy-policy.html)
 [![ads.txt](https://img.shields.io/badge/View-ads.txt-2196f3)](https://nicky-muindi.github.io/ads.txt)
 [![Developer](https://img.shields.io/badge/Developer-Nicholas%20M%20Mwanza-00bfa5)](mailto:nicholasmuindi25@gmail.com)
 
-> **Official GitHub Pages site** for Nicholas M Mwanza’s AI apps — including  
-> 🧠 **AI GPT Video & Image Generator** and 🎬 **AI GPT Video Generator**.  
+> **Official GitHub Pages site** for Nicholas M Mwanza’s AI apps and football coverage app — including  
+> 🧠 **AI GPT Video & Image Generator**, 🎬 **AI GPT Video Generator**, and ⚽ **Live Football TV**.  
 > Built for transparency, privacy, and creative AI expression.
 
 ---
@@ -18,6 +21,7 @@
 | 🧾 **Privacy Policy** | [https://nicky-muindi.github.io/privacy-policy.html](https://nicky-muindi.github.io/privacy-policy.html) |
 | 📜 **ads.txt** | [https://nicky-muindi.github.io/ads.txt](https://nicky-muindi.github.io/ads.txt) |
 | 👤 **Client (Hillary Kipyegon)** | [https://nicky-muindi.github.io/hillary-kipyegon/](https://nicky-muindi.github.io/hillary-kipyegon/) |
+| ⚽ **Live Football TV** | [https://nicky-muindi.github.io/live-football-tv/index.html](https://nicky-muindi.github.io/live-football-tv/index.html) |
 
 ---
 
@@ -29,6 +33,7 @@
 | `privacy-policy.html` | Shared privacy policy for all hosted apps |
 | `ads.txt` | Authorized ad-sellers file for AdMob & Google Play |
 | `hillary-kipyegon/` | Subpage hosted for authorized client Hillary Kipyegon |
+| `live-football-tv/` | Subpage for Live Football TV app |
 | `LICENSE.txt` | Proprietary license |
 | `README.md` | This file — repository overview |
 
@@ -41,6 +46,9 @@ Create AI-generated **images and short videos** from text prompts using secure A
 
 ### **AI GPT Video Generator**
 A lightweight companion app designed for **quick AI video creation**, using the same privacy and ad transparency standards.
+
+### **Live Football TV**
+Follow **live football matches, scores, fixtures, and league coverage** from around the world in a simple, privacy-focused app.
 
 ---
 
@@ -61,3 +69,4 @@ To update or deploy new files:
 git add .
 git commit -m "Update site files"
 git push origin main
+````
