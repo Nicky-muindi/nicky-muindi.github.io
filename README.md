@@ -1,6 +1,3 @@
-Here’s your updated README with **Live Football TV** added as a new app and links:
-
-````markdown
 # 🌌 AI GPT Video & Image Generator & Live Football TV — Official Website
 
 [![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-00bcd4?logo=githubpages)](https://nicky-muindi.github.io)
@@ -69,4 +66,3 @@ To update or deploy new files:
 git add .
 git commit -m "Update site files"
 git push origin main
-````
