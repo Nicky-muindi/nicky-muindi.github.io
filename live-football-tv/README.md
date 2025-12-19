@@ -34,6 +34,14 @@ Live Football TV follows clear privacy and advertising standards:
 Full details are available in the app’s privacy policy.
 
 ---
+## 📎 Quick Links
+| Purpose | URL |
+|----------|-----|
+| 🌐 **Main site** | [https://nicky-muindi.github.io](https://nicky-muindi.github.io) |
+| 🧾 **Privacy Policy** | [https://nicky-muindi.github.io/live-football-tv/privacy-policy.html](https://nicky-muindi.github.io/live-football-tv/privacy-policy.html) |
+| 📜 **ads.txt** | [https://nicky-muindi.github.io/ads.txt](https://nicky-muindi.github.io/ads.txt) |
+
+
 
 ## 🚀 Hosting & Deployment
 
