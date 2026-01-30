@@ -1,7 +1,6 @@
-
 | File / Folder | Description |
 |---------------|------------|
-| `index.html` | Public landing page for Live Football TV |
+| `index.html` | Public landing page for Football Livescore Tv |
 | `privacy-policy.html` | App-specific privacy policy (Play Store compliant) |
 | `assets/` | Static assets such as CSS or scripts |
 | `images/` | App images, icons, and promotional graphics |
@@ -9,9 +8,9 @@
 
 ---
 
-## ⚽ About Live Football TV
+## ⚽ About Football Livescore Tv
 
-**Live Football TV** is a football-focused application that helps users stay informed with:
+**Football Livescore Tv** is a football-focused application that helps users stay informed with:
 
 - Match schedules and fixtures  
 - Live scores and match updates  
@@ -24,7 +23,7 @@ The app is designed for accessibility and ease of use, without unnecessary compl
 
 ## 🔐 Privacy & Transparency
 
-Live Football TV follows clear privacy and advertising standards:
+Football Livescore Tv follows clear privacy and advertising standards:
 
 - 🔒 No account registration required  
 - 📵 No direct collection of personal user information  
@@ -35,15 +34,13 @@ Full details are available in the app’s privacy policy.
 
 ---
 ## 📎 Quick Links
+
 | Purpose | URL |
 |----------|-----|
 | 🌐 **Main site** | [https://nicky-muindi.github.io](https://nicky-muindi.github.io) |
-| 🧾 **Privacy Policy** | [https://nicky-muindi.github.io/live-football-tv/privacy-policy.html](https://nicky-muindi.github.io/live-football-tv/privacy-policy.html) |
+| 🧾 **Privacy Policy** | [https://nicky-muindi.github.io/football-livescore-tv/privacy-policy.html](https://nicky-muindi.github.io/football-livescore-tv/privacy-policy.html) |
 | 📜 **ads.txt** | [https://nicky-muindi.github.io/ads.txt](https://nicky-muindi.github.io/ads.txt) |
-
-
 
 ## 🚀 Hosting & Deployment
 
 This site is hosted using **GitHub Pages** as part of the main publisher repository:
-
