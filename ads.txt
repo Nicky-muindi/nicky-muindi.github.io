@@ -8,7 +8,7 @@
 # Last Updated: 2026-01-25
 # ============================================================
 
-# --- Live Football TV ---
+# --- Football Livescore Tv ---
 google.com, pub-9008625199732227, DIRECT, f08c47fec0942fa0
 
 # --- Hosted Client: Hillary Kipyegon (AI GPT Video & Image Generator) ---
