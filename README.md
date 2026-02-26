@@ -17,7 +17,7 @@
 |----------|-----|
 | 🌐 **Main site** | [https://nicky-muindi.github.io](https://nicky-muindi.github.io) |
 | 🧾 **Privacy Policy** | [https://nicky-muindi.github.io/privacy-policy.html](https://nicky-muindi.github.io/privacy-policy.html) |
-| 📜 **ads.txt** | [https://nicky-muindi.github.io/ads.txt](https://nicky-muindi.github.io/ads.txt) |
+| 📜 **ads.txt** | [https://nicky-muindi.github.io/ads.txt](https://nicky-muindi.github.io/app-ads.txt) |
 | 👤 **Client (Hillary Kipyegon)** | [https://nicky-muindi.github.io/hillary-kipyegon/](https://nicky-muindi.github.io/hillary-kipyegon/) |
 | ⚽ **Football Livescore Tv** | [https://nicky-muindi.github.io/football-livescore-tv/index.html](https://nicky-muindi.github.io/football-livescore-tv/index.html) |
 
