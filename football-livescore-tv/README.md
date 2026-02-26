@@ -39,7 +39,7 @@ Full details are available in the app’s privacy policy.
 |----------|-----|
 | 🌐 **Main site** | [https://nicky-muindi.github.io](https://nicky-muindi.github.io) |
 | 🧾 **Privacy Policy** | [https://nicky-muindi.github.io/football-livescore-tv/privacy-policy.html](https://nicky-muindi.github.io/football-livescore-tv/privacy-policy.html) |
-| 📜 **ads.txt** | [https://nicky-muindi.github.io/ads.txt](https://nicky-muindi.github.io/ads.txt) |
+| 📜 **ads.txt** | [https://nicky-muindi.github.io/ads.txt](https://nicky-muindi.github.io/app-ads.txt) |
 
 ## 🚀 Hosting & Deployment
 
